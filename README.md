@@ -1,10 +1,11 @@
 # DCPP_Group_Assignment
-## Team: \
-Anuj Verma [github.com/AnujVrma7] \
-Kartikey Ajay Rai [github.com/kartirai] \
-Krithika Nagendiran [github.com/nagik17] \
-Navin Wadhwani [github.com/nvnwadhwani] \
-Ratna Manedhar Punjala [github.com/ratnamanedhar] \
+## Team: 
+\
+Anuj Verma (www.github.com/AnujVrma7) \
+Kartikey Ajay Rai (www.github.com/kartirai) \
+Krithika Nagendiran (www.github.com/nagik17) \
+Navin Wadhwani (www.github.com/nvnwadhwani) \
+Ratna Manedhar Punjala (www.github.com/ratnamanedhar) \
 \
 # What is the problem? -
 Why does one need a DATA SET? For example, in the current contemporary
