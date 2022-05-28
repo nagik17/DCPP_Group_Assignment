@@ -6,7 +6,7 @@ Kartikey Ajay Rai (www.github.com/kartirai) \
 Krithika Nagendiran (www.github.com/nagik17) \
 Navin Wadhwani (www.github.com/nvnwadhwani) \
 Ratna Manedhar Punjala (www.github.com/ratnamanedhar) \
-\
+
 # What is the problem? -
 Why does one need a DATA SET? For example, in the current contemporary
 world – looking for a recipe with specific ingredients, diet preferences, cuisine,
