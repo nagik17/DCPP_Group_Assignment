@@ -1,12 +1,12 @@
 # DCPP_Group_Assignment
-Team:
-Anuj Verma 
-Kartikey Ajay Rai @kartirai
-Krithika Nagendiran 
-Navin Wadhwani @nvnwadhwani
-Ratna Manedhar Punjala 
-
-What is the problem? -
+## Team: \
+Anuj Verma [github.com/AnujVrma7] \
+Kartikey Ajay Rai [github.com/kartirai] \
+Krithika Nagendiran [github.com/nagik17] \
+Navin Wadhwani [github.com/nvnwadhwani] \
+Ratna Manedhar Punjala [github.com/ratnamanedhar] \
+\
+# What is the problem? -
 Why does one need a DATA SET? For example, in the current contemporary
 world – looking for a recipe with specific ingredients, diet preferences, cuisine,
 occasion/festival recipe with specific parameters is highly recommended and many
@@ -22,7 +22,7 @@ interacting with the Indian subcontinent, leading to diversity of flavours and r
 cuisines found in modern-day India. Later, trade with British and Portuguese influence
 added to the already diverse Indian cuisine. For all such smart applications the main
 ingredient is a SMART DATA SET.
-What is the solution? –
+#What is the solution? –
 Data plays a key role as enabler in assisting the resolution to a problem. A very
 well-defined database can further help to identify a quick solution with less complexity.
 In this assignment, the group of Data Collection students, present an algorithm that
